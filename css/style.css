@@ -15,7 +15,7 @@ body {
 
 nav {
   background-color: #000000;
-  height: 50px;
+  height: 60px;
   position: fixed;
   margin-top: -10px;
   width: 420px;
@@ -23,6 +23,7 @@ nav {
 
 .restaurant-list {
   background-color: #aaa;
+  padding-top: 60px
 }
 
 
@@ -49,6 +50,7 @@ nav {
 .arrow-left {
   float: left;
   position: static;
+  padding: 6%;
   width: 100%
 }
 
