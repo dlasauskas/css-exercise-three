@@ -7,6 +7,12 @@ body {
   font-family: sans-serif;
   font-size: 10px;
 }
+div {
+    background-color: ##D3D3D3;
+}
+div:hover {
+    background-color: #808080;
+}
 
 .container {
   margin: 0 auto;
@@ -22,15 +28,14 @@ nav {
 }
 
 .restaurant-list {
-  background-color: #aaa;
-  padding-top: 60px
+  background-color: #DCDCDC;
+  padding-top: 50px
 }
 
-
 .location {
-  background-color: #aaa;
+  background-color: #DCDCDC;
   float: left;
-  padding: 5%;
+  padding: 3%;
   width: 420px;
   height: 80px;
   border-bottom: 1px solid black;
@@ -58,6 +63,7 @@ h1{
   font-family: sans-serif;
   font-weight: 550;
   font-size: 1.75em;
+  line-height: 1.75em
 }
 
 h3 {
